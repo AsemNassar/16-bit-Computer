@@ -1,6 +1,4 @@
-Sure! Here's a well-structured and professional GitHub `README.md` project description for your **16-bit computer** project:
 
----
 
 # 🖥️ 16-Bit Bus-Based Computer Architecture
 
