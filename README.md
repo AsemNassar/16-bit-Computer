@@ -2,7 +2,7 @@
 
 # 🖥️ 16-Bit Bus-Based Computer Architecture
 
-This project implements a simplified 16-bit computer system based on a basic bus architecture. It models the core functional units of a classic computer design, focusing on instruction processing, data movement, and control sequencing.
+This project implements a simplified 16-bit computer system based on Mano basic bus architecture. It models the core functional units of a classic computer design, focusing on instruction processing, data movement, and control sequencing.
 
 ## 🚀 Features
 
